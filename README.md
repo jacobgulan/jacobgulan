@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @jacobgulan
-- 👀 I’m interested in Machine Learning and Software Engineering
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/jacobgulan/
+```python
+while True:
+  He += 1
+  I -= 1
+```
+_John 3:30_
 
 <!---
 jacobgulan/jacobgulan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
